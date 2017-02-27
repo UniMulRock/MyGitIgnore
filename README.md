@@ -1,4 +1,6 @@
-# MyGitIgnore
+# MyGitIgnore  
+Version:1.0.0
+対応Unityバージョン:5.4.2f2  
 ## MyGitIgnoreについて
 Unityをチーム開発・バージョン管理する上で必要な.gitignoreの設定内容を記述．
 ベースは参考URL先の.gitignoreを使用
